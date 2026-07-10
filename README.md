@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Aarin18/DSA-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/Aarin18/DSA-problems/tree/master/1424-diagonal-traverse-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Aarin18/DSA-problems/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Aarin18/DSA-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Aarin18/DSA-problems/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Aarin18/DSA-problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aarin18/DSA-problems/tree/master/1929-concatenation-of-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Aarin18/DSA-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Aarin18/DSA-problems/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
