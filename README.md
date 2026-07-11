@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aarin18/DSA-problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aarin18/DSA-problems/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Aarin18/DSA-problems/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aarin18/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/Aarin18/DSA-problems/tree/master/0724-find-pivot-index) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aarin18/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Aarin18/DSA-problems/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
