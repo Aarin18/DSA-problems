@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aarin18/DSA-problems/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/Aarin18/DSA-problems/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aarin18/DSA-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Aarin18/DSA-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aarin18/DSA-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
