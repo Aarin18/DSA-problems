@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aarin18/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Aarin18/DSA-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aarin18/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Aarin18/DSA-problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Aarin18/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aarin18/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0566-reshape-the-matrix) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aarin18/DSA-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Aarin18/DSA-problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
