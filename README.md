@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aarin18/DSA-problems/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Aarin18/DSA-problems/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Aarin18/DSA-problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Aarin18/DSA-problems/tree/master/0415-add-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aarin18/DSA-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Aarin18/DSA-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aarin18/DSA-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aarin18/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Aarin18/DSA-problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Aarin18/DSA-problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Aarin18/DSA-problems/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Aarin18/DSA-problems/tree/master/1108-defanging-an-ip-address) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Aarin18/DSA-problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Aarin18/DSA-problems/tree/master/1768-merge-strings-alternately) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Aarin18/DSA-problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Aarin18/DSA-problems/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Aarin18/DSA-problems/tree/master/1920-build-array-from-permutation) |
