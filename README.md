@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aarin18/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Aarin18/DSA-problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Aarin18/DSA-problems/tree/master/0412-fizz-buzz) |
+| [1108-defanging-an-ip-address](https://github.com/Aarin18/DSA-problems/tree/master/1108-defanging-an-ip-address) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Aarin18/DSA-problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Aarin18/DSA-problems/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aarin18/DSA-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
