@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Aarin18/DSA-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aarin18/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aarin18/DSA-problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Aarin18/DSA-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aarin18/DSA-problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aarin18/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aarin18/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Aarin18/DSA-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aarin18/DSA-problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Aarin18/DSA-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aarin18/DSA-problems/tree/master/0217-contains-duplicate) |
 | [1424-diagonal-traverse-ii](https://github.com/Aarin18/DSA-problems/tree/master/1424-diagonal-traverse-ii) |
 ## Math
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aarin18/DSA-problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Aarin18/DSA-problems/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Aarin18/DSA-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aarin18/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Aarin18/DSA-problems/tree/master/0383-ransom-note) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aarin18/DSA-problems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aarin18/DSA-problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aarin18/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aarin18/DSA-problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Aarin18/DSA-problems/tree/master/0383-ransom-note) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Aarin18/DSA-problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aarin18/DSA-problems/tree/master/3005-count-elements-with-maximum-frequency) |
