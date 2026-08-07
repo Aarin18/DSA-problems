@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aarin18/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Aarin18/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aarin18/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/Aarin18/DSA-problems/tree/master/0289-game-of-life) |
 | [0485-max-consecutive-ones](https://github.com/Aarin18/DSA-problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Aarin18/DSA-problems/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Aarin18/DSA-problems/tree/master/0498-diagonal-traverse) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/Aarin18/DSA-problems/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Aarin18/DSA-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Aarin18/DSA-problems/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Aarin18/DSA-problems/tree/master/0498-diagonal-traverse) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aarin18/DSA-problems/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aarin18/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/Aarin18/DSA-problems/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Aarin18/DSA-problems/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0766-toeplitz-matrix) |
