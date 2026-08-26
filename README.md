@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aarin18/DSA-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aarin18/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aarin18/DSA-problems/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Aarin18/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Aarin18/DSA-problems/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/Aarin18/DSA-problems/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aarin18/DSA-problems/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Aarin18/DSA-problems/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Aarin18/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/Aarin18/DSA-problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Aarin18/DSA-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Aarin18/DSA-problems/tree/master/0415-add-strings) |
