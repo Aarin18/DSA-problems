@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Aarin18/DSA-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Aarin18/DSA-problems/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Aarin18/DSA-problems/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Aarin18/DSA-problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aarin18/DSA-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aarin18/DSA-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Aarin18/DSA-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Aarin18/DSA-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aarin18/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Aarin18/DSA-problems/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Aarin18/DSA-problems/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aarin18/DSA-problems/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Aarin18/DSA-problems/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarin18/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aarin18/DSA-problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
