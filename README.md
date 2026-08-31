@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aarin18/DSA-problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Aarin18/DSA-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aarin18/DSA-problems/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Aarin18/DSA-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Aarin18/DSA-problems/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Aarin18/DSA-problems/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Aarin18/DSA-problems/tree/master/0412-fizz-buzz) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aarin18/DSA-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aarin18/DSA-problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Aarin18/DSA-problems/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarin18/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aarin18/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Aarin18/DSA-problems/tree/master/0704-binary-search) |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Aarin18/DSA-problems/tree/master/0509-fibonacci-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Aarin18/DSA-problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
