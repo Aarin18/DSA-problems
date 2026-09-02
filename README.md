@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Aarin18/DSA-problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aarin18/DSA-problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aarin18/DSA-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Aarin18/DSA-problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aarin18/DSA-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Aarin18/DSA-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1424-diagonal-traverse-ii](https://github.com/Aarin18/DSA-problems/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aarin18/DSA-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Aarin18/DSA-problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aarin18/DSA-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
