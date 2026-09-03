@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aarin18/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aarin18/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Aarin18/DSA-problems/tree/master/0289-game-of-life) |
+| [0410-split-array-largest-sum](https://github.com/Aarin18/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Aarin18/DSA-problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Aarin18/DSA-problems/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Aarin18/DSA-problems/tree/master/0498-diagonal-traverse) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarin18/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Aarin18/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/Aarin18/DSA-problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Aarin18/DSA-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Aarin18/DSA-problems/tree/master/1732-find-the-highest-altitude) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Aarin18/DSA-problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarin18/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aarin18/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/Aarin18/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Aarin18/DSA-problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aarin18/DSA-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Aarin18/DSA-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aarin18/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/Aarin18/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Aarin18/DSA-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aarin18/DSA-problems/tree/master/0509-fibonacci-number) |
 ## Counting
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Aarin18/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aarin18/DSA-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aarin18/DSA-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
