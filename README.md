@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Aarin18/DSA-problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aarin18/DSA-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Aarin18/DSA-problems/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Aarin18/DSA-problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aarin18/DSA-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aarin18/DSA-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aarin18/DSA-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Aarin18/DSA-problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aarin18/DSA-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Aarin18/DSA-problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Divide and Conquer
 |  |
 | ------- |
