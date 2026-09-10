@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aarin18/DSA-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Aarin18/DSA-problems/tree/master/0875-koko-eating-bananas) |
+| [0962-maximum-width-ramp](https://github.com/Aarin18/DSA-problems/tree/master/0962-maximum-width-ramp) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aarin18/DSA-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aarin18/DSA-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aarin18/DSA-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aarin18/DSA-problems/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Aarin18/DSA-problems/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aarin18/DSA-problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0962-maximum-width-ramp](https://github.com/Aarin18/DSA-problems/tree/master/0962-maximum-width-ramp) |
 | [1768-merge-strings-alternately](https://github.com/Aarin18/DSA-problems/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0962-maximum-width-ramp](https://github.com/Aarin18/DSA-problems/tree/master/0962-maximum-width-ramp) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Aarin18/DSA-problems/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Design
 |  |
@@ -270,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aarin18/DSA-problems/tree/master/0852-peak-index-in-a-mountain-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/Aarin18/DSA-problems/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
