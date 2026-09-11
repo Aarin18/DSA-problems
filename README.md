@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aarin18/DSA-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aarin18/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aarin18/DSA-problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aarin18/DSA-problems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aarin18/DSA-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aarin18/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aarin18/DSA-problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Aarin18/DSA-problems/tree/master/0075-sort-colors) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aarin18/DSA-problems/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Aarin18/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aarin18/DSA-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aarin18/DSA-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
