@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Aarin18/DSA-problems/tree/master/0875-koko-eating-bananas) |
 | [0962-maximum-width-ramp](https://github.com/Aarin18/DSA-problems/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aarin18/DSA-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aarin18/DSA-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aarin18/DSA-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aarin18/DSA-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aarin18/DSA-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aarin18/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Aarin18/DSA-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Aarin18/DSA-problems/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aarin18/DSA-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Aarin18/DSA-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Aarin18/DSA-problems/tree/master/1732-find-the-highest-altitude) |
 ## Heap (Priority Queue)
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Aarin18/DSA-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aarin18/DSA-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Aarin18/DSA-problems/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aarin18/DSA-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aarin18/DSA-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Aarin18/DSA-problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Divide and Conquer
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarin18/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Aarin18/DSA-problems/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aarin18/DSA-problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Memoization
 |  |
 | ------- |
