@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aarin18/DSA-problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aarin18/DSA-problems/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Aarin18/DSA-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Aarin18/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Aarin18/DSA-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aarin18/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Aarin18/DSA-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0962-maximum-width-ramp](https://github.com/Aarin18/DSA-problems/tree/master/0962-maximum-width-ramp) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Aarin18/DSA-problems/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Design
@@ -298,5 +300,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Aarin18/DSA-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0962-maximum-width-ramp](https://github.com/Aarin18/DSA-problems/tree/master/0962-maximum-width-ramp) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Aarin18/DSA-problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
