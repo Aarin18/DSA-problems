@@ -1,9 +1,5 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        if (heights == null || heights.length == 0){
-             return 0;
-        }
-        
         int n = heights.length;
         int[] lLess = new int[n];  
         int[] rLess = new int[n]; 
