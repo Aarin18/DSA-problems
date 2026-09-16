@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Aarin18/DSA-problems/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Aarin18/DSA-problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Aarin18/DSA-problems/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/Aarin18/DSA-problems/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aarin18/DSA-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aarin18/DSA-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aarin18/DSA-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Aarin18/DSA-problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Aarin18/DSA-problems/tree/master/0503-next-greater-element-ii) |
 | [0962-maximum-width-ramp](https://github.com/Aarin18/DSA-problems/tree/master/0962-maximum-width-ramp) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Aarin18/DSA-problems/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Design
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aarin18/DSA-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Aarin18/DSA-problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Aarin18/DSA-problems/tree/master/0503-next-greater-element-ii) |
 | [0962-maximum-width-ramp](https://github.com/Aarin18/DSA-problems/tree/master/0962-maximum-width-ramp) |
 ## Range Minimum/Maximum Query
 |  |
