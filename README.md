@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aarin18/DSA-problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Aarin18/DSA-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aarin18/DSA-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Aarin18/DSA-problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Aarin18/DSA-problems/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Aarin18/DSA-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Aarin18/DSA-problems/tree/master/0415-add-strings) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Aarin18/DSA-problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Aarin18/DSA-problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Aarin18/DSA-problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Aarin18/DSA-problems/tree/master/0371-sum-of-two-integers) |
 ## Greedy
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aarin18/DSA-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Aarin18/DSA-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aarin18/DSA-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Aarin18/DSA-problems/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Aarin18/DSA-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aarin18/DSA-problems/tree/master/0509-fibonacci-number) |
 ## Game Theory
