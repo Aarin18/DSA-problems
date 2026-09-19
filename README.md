@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aarin18/DSA-problems/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Aarin18/DSA-problems/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Aarin18/DSA-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aarin18/DSA-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aarin18/DSA-problems/tree/master/0342-power-of-four) |
@@ -321,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aarin18/DSA-problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Aarin18/DSA-problems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
