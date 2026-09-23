@@ -1,22 +1,17 @@
 class Solution {
     public double myPow(double x, int n) {
-        if(n < 0){
-            return 1.0 / power(x, -n);
-        }
-        return power(x, n);
-
-    }
-    private double power(double x, int n){
-        if(n ==0){
+        if (n == 0){
             return 1.0;
+        } 
+        
+        if (n < 0){
+            return 1.0/x * myPow(1.0 / x, -(n + 1)); 
         }
-        double half = power(x, n/2);
-
         if(n % 2 == 0){
-            return half*half;
-        }
-        else {
-            return half * half * x;
+            return myPow(x*x, n /2);
+        }else{
+            return x * myPow(x*x, n /2);
+
         }
     }
 }
