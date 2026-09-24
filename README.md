@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aarin18/DSA-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aarin18/DSA-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aarin18/DSA-problems/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Aarin18/DSA-problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Aarin18/DSA-problems/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Aarin18/DSA-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Aarin18/DSA-problems/tree/master/0415-add-strings) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aarin18/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarin18/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aarin18/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0367-valid-perfect-square](https://github.com/Aarin18/DSA-problems/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Aarin18/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aarin18/DSA-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/Aarin18/DSA-problems/tree/master/0704-binary-search) |
