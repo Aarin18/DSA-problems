@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Aarin18/DSA-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Aarin18/DSA-problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Aarin18/DSA-problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Aarin18/DSA-problems/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Aarin18/DSA-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aarin18/DSA-problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Aarin18/DSA-problems/tree/master/0367-valid-perfect-square) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Aarin18/DSA-problems/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Aarin18/DSA-problems/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Aarin18/DSA-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Aarin18/DSA-problems/tree/master/0415-add-strings) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Aarin18/DSA-problems/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aarin18/DSA-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
