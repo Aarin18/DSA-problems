@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aarin18/DSA-problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Aarin18/DSA-problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Aarin18/DSA-problems/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Aarin18/DSA-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Aarin18/DSA-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aarin18/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0054-spiral-matrix) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aarin18/DSA-problems/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Aarin18/DSA-problems/tree/master/0046-permutations) |
 ## Bracket Sequences
 |  |
 | ------- |
