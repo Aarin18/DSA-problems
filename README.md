@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aarin18/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Aarin18/DSA-problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Aarin18/DSA-problems/tree/master/0486-predict-the-winner) |
+| [0495-teemo-attacking](https://github.com/Aarin18/DSA-problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Aarin18/DSA-problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Aarin18/DSA-problems/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Aarin18/DSA-problems/tree/master/0503-next-greater-element-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Aarin18/DSA-problems/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Aarin18/DSA-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Aarin18/DSA-problems/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/Aarin18/DSA-problems/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/Aarin18/DSA-problems/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Aarin18/DSA-problems/tree/master/0867-transpose-matrix) |
